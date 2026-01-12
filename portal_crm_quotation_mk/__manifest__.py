@@ -59,6 +59,7 @@ and create Sales Quotations directly from the Portal interface.
     'author': 'My Khan',
     'website': 'https://www.odoo.com',
     'support': 'mykhan440@outlook.com',
+    'images': ['static/description/icon.png'],
     'depends': [
         'base',
         'portal',
